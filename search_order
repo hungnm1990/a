@@ -1,0 +1,10 @@
+{
+"status": "processing",
+"order_id": "AIR000CU",
+"meta": {
+	"channel": "AIR",
+	"customer": "03042014:10991",
+        "createdFrom":"2015-01-20T22:30:00",
+        "createdTo":"2015-11-26T22:30:00"      
+ }
+}
